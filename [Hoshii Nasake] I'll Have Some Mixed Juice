@@ -1,0 +1,25 @@
+{
+   "title":"[Hoshii Nasake] I'll Have Some Mixed Juice",
+   "description":"",
+   "author":"Hoshii Nasake",
+   "artist":"Hoshii Nasake",
+   "cover":"https://i.imgur.com/24pCV8A.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/5R6tBVx"
+         },
+         "last_updated":1624606143,
+         "title":"I'll Have Some Mixed Juice",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/NJ7fxD0"
+         },
+         "last_updated":1624606143,
+         "title":"I'll Have Another Mixed Juice",
+         "volume":"2"         
+      }
+   }
+}
