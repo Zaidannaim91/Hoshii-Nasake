@@ -1,0 +1,25 @@
+{
+   "title":"[Hoshii Nasake] I Love You",
+   "description":"",
+   "author":"Hoshii Nasake",
+   "artist":"Hoshii Nasake",
+   "cover":"https://i.imgur.com/eZrmMSV.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/DQoO8fL"
+         },
+         "last_updated":1624606143,
+         "title":"I Love You",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/L2bWJWn"
+         },
+         "last_updated":1624606143,
+         "title":" I Love You ~Afterwards~",
+         "volume":"2"         
+      }
+   }
+}
